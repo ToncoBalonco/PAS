@@ -1,0 +1,1 @@
+controller_manager:fanuc_resources:hardware_interface:joint_state_publisher:joint_state_publisher_gui:robot_state_publisher:ros2_control:ros2_controllers:rviz2:std_msgs:trajectory_msgs:xacro

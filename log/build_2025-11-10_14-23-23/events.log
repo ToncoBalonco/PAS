@@ -1,0 +1,6 @@
+[0.000000] (-) TimerEvent: {}
+[0.000341] (-) JobUnselected: {'identifier': 'fanuc_resources'}
+[0.000410] (fanuc_crx10ia_support) JobQueued: {'identifier': 'fanuc_crx10ia_support', 'dependencies': OrderedDict([('fanuc_resources', '/home/cuk/fanuc_cuk_ws/install/fanuc_resources')])}
+[0.000464] (fanuc_crx10ia_support) JobStarted: {'identifier': 'fanuc_crx10ia_support'}
+[0.014351] (fanuc_crx10ia_support) JobEnded: {'identifier': 'fanuc_crx10ia_support', 'rc': 1}
+[0.025547] (-) EventReactorShutdown: {}

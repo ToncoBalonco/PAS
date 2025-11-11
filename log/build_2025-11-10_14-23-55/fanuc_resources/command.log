@@ -1,0 +1,6 @@
+Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cuk/fanuc_cuk_ws/fanuc_resources -DCMAKE_INSTALL_PREFIX=/home/cuk/fanuc_cuk_ws/install/fanuc_resources
+Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cuk/fanuc_cuk_ws/fanuc_resources -DCMAKE_INSTALL_PREFIX=/home/cuk/fanuc_cuk_ws/install/fanuc_resources
+Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cuk/fanuc_cuk_ws/build/fanuc_resources -- -j12 -l12
+Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cuk/fanuc_cuk_ws/build/fanuc_resources -- -j12 -l12
+Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cuk/fanuc_cuk_ws/build/fanuc_resources
+Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cuk/fanuc_cuk_ws/build/fanuc_resources

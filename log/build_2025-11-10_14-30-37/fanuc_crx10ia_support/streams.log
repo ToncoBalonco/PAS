@@ -1,0 +1,82 @@
+[0.017s] Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/cuk/fanuc_cuk_ws/fanuc_crx10ia_support -DCMAKE_INSTALL_PREFIX=/home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support
+[0.037s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.214s] -- Found fanuc_resources: 0.0.0 (/home/cuk/fanuc_cuk_ws/install/fanuc_resources/share/fanuc_resources/cmake)
+[0.214s] -- Found ros2_control: 2.52.0 (/opt/ros/humble/share/ros2_control/cmake)
+[0.214s] -- Found ros2_controllers: 2.50.1 (/opt/ros/humble/share/ros2_controllers/cmake)
+[0.214s] -- Found controller_manager: 2.52.0 (/opt/ros/humble/share/controller_manager/cmake)
+[0.254s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.258s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.265s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.277s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.294s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.515s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.516s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.540s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.555s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.582s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.596s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.612s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.720s] -- Found rviz2: 11.2.22 (/opt/ros/humble/share/rviz2/cmake)
+[0.725s] -- Found xacro: 2.1.1 (/opt/ros/humble/share/xacro/cmake)
+[0.728s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.880s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.881s] -- Added test 'lint_cmake' to check CMake code style
+[0.881s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.885s] -- Added test 'xmllint' to check XML markup files
+[0.887s] -- Configuring done
+[0.896s] -- Generating done
+[0.900s] -- Build files have been written to: /home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support
+[0.913s] Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/cuk/fanuc_cuk_ws/fanuc_crx10ia_support -DCMAKE_INSTALL_PREFIX=/home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support
+[0.916s] Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support -- -j12 -l12
+[0.987s] Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support -- -j12 -l12
+[1.004s] Invoking command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support
+[1.016s] -- Install configuration: ""
+[1.017s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//urdf
+[1.017s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//urdf/crx10ial_macro.xacro
+[1.027s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//urdf/crx10ial.ros2_control.xacro
+[1.027s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//urdf/crx10ial.xacro
+[1.028s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes
+[1.028s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial
+[1.029s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision
+[1.029s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_3.stl
+[1.030s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_4.stl
+[1.030s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_6.stl
+[1.030s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_5.stl
+[1.031s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/base_link.stl
+[1.032s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_1.stl
+[1.032s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/collision/link_2.stl
+[1.033s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual
+[1.033s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_3.stl
+[1.034s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_4.stl
+[1.034s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_6.stl
+[1.034s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_5.stl
+[1.035s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/base_link.stl
+[1.035s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_1.stl
+[1.036s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support//meshes/crx10ial/visual/link_2.stl
+[1.036s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/config
+[1.036s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/config/controllers.yaml
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/display.launch.py
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/publish_joint_trajectory.py
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/publish_joint_positions.launch.py
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/ros2_control.launch.py
+[1.037s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/publish_joint_positions.py
+[1.038s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/launch/publish_joint_trajectory.launch.py
+[1.038s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/lib/fanuc_crx10ia_support/publish_joint_positions.py
+[1.038s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/lib/fanuc_crx10ia_support/publish_joint_trajectory.py
+[1.039s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/ament_index/resource_index/package_run_dependencies/fanuc_crx10ia_support
+[1.039s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/ament_index/resource_index/parent_prefix_path/fanuc_crx10ia_support
+[1.039s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/environment/ament_prefix_path.sh
+[1.039s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/environment/ament_prefix_path.dsv
+[1.040s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/environment/path.sh
+[1.040s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/environment/path.dsv
+[1.040s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/local_setup.bash
+[1.040s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/local_setup.sh
+[1.040s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/local_setup.zsh
+[1.041s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/local_setup.dsv
+[1.041s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/package.dsv
+[1.041s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/ament_index/resource_index/packages/fanuc_crx10ia_support
+[1.041s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/cmake/fanuc_crx10ia_supportConfig.cmake
+[1.042s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/cmake/fanuc_crx10ia_supportConfig-version.cmake
+[1.042s] -- Installing: /home/cuk/fanuc_cuk_ws/install/fanuc_crx10ia_support/share/fanuc_crx10ia_support/package.xml
+[1.046s] Invoked command in '/home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cuk/fanuc_cuk_ws/build/fanuc_crx10ia_support
