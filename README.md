@@ -15,7 +15,7 @@ rviz2
 
 ros2_control and related controller packages installed
 
-🚀 1. Setting up the workspace
+1. Setting up the workspace
 
 Open a terminal and create a new workspace:
 
