@@ -19,6 +19,7 @@ ros2_control and related controller packages installed
 
 Open a terminal and create a new workspace:
 
+```bash
 mkdir test_1
 cd test_1
 
